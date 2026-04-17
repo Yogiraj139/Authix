@@ -1,7 +1,7 @@
 {
-  "token": "MTQ4ODIxODcxODMyNzUzNzgxNA.GFxV85.xBVWysUHGhSslbSd1djO794RpyNeNtc0MAhgUg",
-  "secret": "pPPx-zvT-cnUhIzGWdrINfuJp8vqEqKv",
-  "id": "1488218718327537814",
+  "token": "MTQ5NDYyMjI3NTg1NTU4MTIwNA.G-UNIh.HoedMO02LLFDXPvkT9OVS6MhdFBnvPGrrEHWz8",
+  "secret": "z4OT2kvgBnMPg1xLUrGbACseQaVrAaKR",
+  "id": "1494622275855581204",
   "redirect": "http://127.0.0.1:8000/callback",
   "api_endpoint": "https://canary.discord.com/api/v8",
   "logs": [
